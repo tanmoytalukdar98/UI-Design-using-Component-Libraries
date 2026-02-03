@@ -1,5 +1,5 @@
 # UI Design Using Component Libraries
-By Tanmoy Talukdar.
+by Tanmoy Talukdar.
 
 This project demonstrates user interface design using **Bootstrap** and **Material UI** in a **React Single Page Application**.
 
